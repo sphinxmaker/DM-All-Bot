@@ -2,7 +2,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'MTI3MTA2MTQxMDg3MjI5NTQ4NQ.GyVJ7M.EcfuBVF1ItQkh8yDb534V_xNejLYBjPaE3sHjc'
+TOKEN = 'PUT YOUR BOT TOKEN HERE'
 
 intents = discord.Intents.default()
 intents.members = True
