@@ -2,7 +2,7 @@
 import discord
 from discord.ext import commands
 
-TOKEN = 'PUT YOUR BOT TOKEN HERE'
+TOKEN = 'PUT YOUR CODE HERE'
 
 intents = discord.Intents.default()
 intents.members = True
